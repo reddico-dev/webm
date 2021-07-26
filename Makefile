@@ -1,4 +1,4 @@
 # Setup
 setup:
-	sudo chmod +x web.sh
+	sudo chmod +x webm.sh
 .PHONY: setup
